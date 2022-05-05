@@ -76,4 +76,6 @@ func main() {
 
 	fmt.Println(d.hashify(len(data)))
 	fmt.Println(len(d.hashify(len(data))))
+
+	// for test commit.
 }
